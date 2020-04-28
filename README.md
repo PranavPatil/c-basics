@@ -1,4 +1,4 @@
-# C++ Programming Basics
+# C Programming Basics
 
 * Perform Operations on Sets
 * Find Roots of Quadratic Equation
